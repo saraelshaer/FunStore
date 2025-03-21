@@ -69,7 +69,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 - [Sara Elazb](https://github.com/SaraElazb)
 - [Sara Elshaer](https://github.com/saraelshaer)
 
-⭐️ If you like this project, don't forget to give it a star!
 
   
  
